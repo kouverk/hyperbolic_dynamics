@@ -1,6 +1,6 @@
 # Quadratic Map Orbit Analysis
 
-Exploration of the dynamical behavior of the quadratic map f(x) = x² - c, specifically studying orbit iteration and chaos.
+Basic exploration of the dynamical behavior of the quadratic map f(x) = x² - c, specifically studying orbit iteration and chaos.
 
 ![Orbit Plot](images/orbit.png)
 
